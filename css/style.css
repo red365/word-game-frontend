@@ -1,0 +1,15 @@
+button {
+  width: 134px;
+  height: 36px;
+  color: #FFFFFF;
+  font-size: 13px;
+  font-weight: bold;
+  background-color: #0e67f7;
+  border: none;
+  margin-top: 15px;
+  margin-left: 38%;
+}
+
+td {
+  border: 2px ridge #ddd;
+}
